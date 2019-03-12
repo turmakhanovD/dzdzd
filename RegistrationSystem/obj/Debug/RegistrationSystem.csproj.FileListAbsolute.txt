@@ -1,0 +1,17 @@
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\obj\Debug\RegistrationSystem.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\obj\Debug\RegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\RegistrationSystem.exe.config
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\RegistrationSystem.exe
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\RegistrationSystem.pdb
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\Twilio.dll
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\bin\Debug\Twilio.xml
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\obj\Debug\RegistrationSystem.csproj.CopyComplete
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\obj\Debug\RegistrationSystem.exe
+C:\Users\ТурмаханД\source\repos\RegistrationSystem\RegistrationSystem\obj\Debug\RegistrationSystem.pdb
